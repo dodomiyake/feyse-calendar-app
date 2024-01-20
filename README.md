@@ -74,7 +74,7 @@ Feel free to contribute to this project!
 
 ## Acknowledgments
 
-Feel free to explore and customize the Coding Quiz App based on your project's needs.
+Feel free to explore and customize the Work Day SCheduler App based on your project's needs.
 
 ## Contact
 
