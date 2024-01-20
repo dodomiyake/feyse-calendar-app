@@ -8,6 +8,7 @@ Manage your busy schedule effectively with this handy daily planner!
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -27,6 +28,12 @@ The Work Day Scheduler is a simple calendar application that allows users to sav
 - Allows adding events to specific timeblocks.
 - Saves events in local storage for persistence between page refreshes.
 
+## Demo
+
+View a live demo of the Coding Quiz App [here](https://dodomiyake.github.io/feyse-workday-scheduler-app/).
+
+![Alt text](image.png)
+
 ## Technologies Used
 
 - HTML: Structure and content of the app.
@@ -37,8 +44,14 @@ The Work Day Scheduler is a simple calendar application that allows users to sav
 
 ## Getting Started
 
-1. Clone or download the project files.
-2. Open the index.html file in your browser.
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/workday-scheduler-app.git
+    cd workday-scheduler-app
+    ```
+
+2. Open the `index.html` file in your preferred web browser.
 
 ## Usage
 
@@ -54,8 +67,10 @@ The Work Day Scheduler is a simple calendar application that allows users to sav
 Feel free to contribute to this project!
 
 1. Fork the repository.
-2. Make your changes.
-3. Submit a pull request.
+2. Create a new branch: `git checkout -b feature-name`.
+3. Make your changes and commit them: `git commit -m 'Add feature'`.
+4. Push to the branch: `git push origin feature-name`.
+5. Submit a pull request.
 
 ## Acknowledgments
 
