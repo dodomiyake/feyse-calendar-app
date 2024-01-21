@@ -13,13 +13,19 @@ function displayTime() {
       // Create elements for timeblock
       var timeblock = $("<div>").addClass("row time-block");
       var hourColumn = $("<div>").addClass("col-md-1 hour").text(hour + ":00 AM");
-      var eventColumn = $("<textarea>").addClass("col-md-10 description").css("color", "black");
+      var eventColumn = $("<textarea>").addClass("col-md-10 description");
   
 
 
       
       // Create save button
       var saveBtn = $("<button>").addClass("col-md-1 saveBtn").html('<i class="fas fa-save"></i>');
+
+      // Append elements to timeblock
+      timeblock.append(hourColumn, eventColumn, saveBtn);
+  
+      // Append timeblock to container
+      container.append(timeblock);
     }
   }
   
