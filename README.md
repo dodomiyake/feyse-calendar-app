@@ -30,7 +30,7 @@ The Work Day Scheduler is a simple calendar application that allows users to sav
 
 ## Demo
 
-View a live demo of the Coding Quiz App [here](https://dodomiyake.github.io/feyse-workday-scheduler-app/).
+View a live demo of the Work Day Scheduler App [here](https://dodomiyake.github.io/feyse-workday-scheduler-app/).
 
 ![Alt text](image.png)
 
