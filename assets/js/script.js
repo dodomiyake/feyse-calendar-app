@@ -48,6 +48,20 @@ function displayTime() {
     }
   }
 
+
+  // Function to handle saving events to local storage
+  function saveEvent() {
+    var timeblock = $(this).closest(".time-block");
+    var hour = timeblock.find(".hour").text(); // The hour is already in the correct format
+    var event = timeblock.find(".description").val();
+  
+    // Save to local storage
+    localStorage.setItem(hour, event);
+  }
+  
+  // Event listener for save button
+  $(".container").on("click", ".saveBtn", saveEvent);
+
   
   // Call functions to initialize the app
   setInterval(displayTime, 1000);
