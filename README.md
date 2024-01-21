@@ -6,15 +6,18 @@ Manage your busy schedule effectively with this handy daily planner!
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Feyse Work Day Scheduler App](#feyse-work-day-scheduler-app)
+  - [Overview](#overview)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Demo](#demo)
+  - [Technologies Used](#technologies-used)
+  - [Getting Started](#getting-started)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Acknowledgments](#acknowledgments)
+  - [Contact](#contact)
 
 ## Introduction
 
